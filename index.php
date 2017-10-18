@@ -14,8 +14,9 @@
 tempor incididunt ut labore et dolore magna aliqua.</p>
 
 <span>Hola mundo</span>
-<ul><li>Hola</li>
-<li>prueba</li>
+<ul>
+	<li>Hola</li>
+	<li>prueba</li>
 </ul>
 
 <?php include('iphp/footer.php'); ?>
