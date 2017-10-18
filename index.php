@@ -9,5 +9,6 @@
 <h1>Test de trabajo</h1>
 
 <?php include('iphp/footer.php'); ?>
+<?php include('iphp/pagination.php'); ?>
 </body>
 </html>
