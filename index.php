@@ -17,6 +17,7 @@
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
 
+<span>Hola mundo</span>
 
 <?php include('iphp/footer.php'); ?>
 <script type="text/javascript" src="js/script.js"></script>
