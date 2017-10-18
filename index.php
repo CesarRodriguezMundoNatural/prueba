@@ -18,7 +18,7 @@ tempor incididunt ut labore et dolore magna aliqua.</p>
 	<li>Hola</li>
 	<li>prueba</li>
 </ul>
-
+aedf
 <?php include('iphp/footer.php'); ?>
 <script type="text/javascript" src="js/script.js"></script>
 
