@@ -1,0 +1,26 @@
+body{
+	font-family: "Calibir";
+	background-color:#E0DDDD;
+
+}
+
+.contenedor{
+	overflow: hidden;
+	padding-top: 40px;
+
+
+}
+
+.cardo{
+	width: 20%;
+	height: 15%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	background-color: #FFFFFF;
+	
+
+}
+
+.cardo:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
