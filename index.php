@@ -10,8 +10,6 @@
 <body>
 <?php include('iphp/header.php'); ?>
 <h1>titulo del parrafo</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.</p>
 
 <span>Hola mundo</span>
 <ul>
